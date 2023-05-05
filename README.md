@@ -2,7 +2,7 @@
 ## PhoneBook
 Using App :
 
- ![App](RandomPic/app/src/main/res/drawable/cap3.jpg)
+ ![App](app/src/main/res/drawable/cap3.jpg)
 
 ## Chutirat Kaewchay 6310682643
 
@@ -15,4 +15,4 @@ Using App :
 6. มีหน้า trash ในกรณีที่เผลอลบแล้วต้องการกู้คืนหรือต้องการลบถาวร
 
 ## Demo Clip
-[https://youtu.be/lIzeYWXj4OY](https://youtu.be/lIzeYWXj4OY)
+[link Demo](https://youtu.be/cGjdmTxVDGY)
