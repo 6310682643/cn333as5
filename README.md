@@ -2,7 +2,7 @@
 ## PhoneBook
 Using App :
 
- ![App](app/src/main/res/drawable/cap3.jpg)
+ ![App](PhoneBook/app/src/main/res/drawable/cap3.jpg)
 
 ## Chutirat Kaewchay 6310682643
 
