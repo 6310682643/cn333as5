@@ -8,11 +8,11 @@ Using App :
 
 ## การทำงานของ Application
 1. สามารถเก็บเบอร์โทรศัพท์เก็บตามรายชื่อได้ (เรียงตามตัวอักษรของชื่อ)
-2. สามารถ tag เบอร์เป็นประเภทต่างๆ โดยจะมี tag: Work, Home, Mobile, Friend, Family, Other
+2. สามารถ tag และสี เบอร์เป็นประเภทต่างๆ โดยจะมี tag: Work, Home, Mobile, Friend, Family, Other
 3. สามารถเพิ่ม/ลบ/แก้ไขเบอร์ได้
-4. มีตัวเลือกให้เลือกว่าอยากให้ contact นี้ checkbox ได้
-5. สามารถเลือกสีให้แต่ละเบอร์ได้
-6. มีหน้า trash ในกรณีที่เผลอลบแล้วต้องการกู้คืนหรือต้องการลบถาวร
+4. มีตัวเลือกให้เลือกว่าต้องการให้ contact นีเป็น favorite contact หรือไม่
+5. มี switch light/dark theme ให้เลือก
+6. มีหน้า trash แยกเป็น contact กับ fav contact ในกรณีที่เผลอลบแล้วต้องการกู้คืนหรือต้องการลบถาวร
 
 ## Demo Clip
 [link Demo](https://youtu.be/cGjdmTxVDGY)
